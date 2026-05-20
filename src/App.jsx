@@ -45,7 +45,6 @@ function App() {
       {/* PROJECT LIST */}
       <ProjectList projects={filteredProjects} />
 
-      {}
       <Contact />
 
       
